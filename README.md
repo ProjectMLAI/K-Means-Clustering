@@ -1,2 +1,2 @@
 # K-Means-Clustering
-K measn clustering 
+K means clustering 
